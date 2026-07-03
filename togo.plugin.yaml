@@ -1,0 +1,8 @@
+name: compute-spark
+description: Compute backend — submit jobs to Apache Spark.
+priority: 51
+backend:
+  package: github.com/togo-framework/compute-spark
+migrations: []
+frontend: { dir: "" }
+commands: []
